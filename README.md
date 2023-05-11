@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, new developments underway. Please stay tuned.
 
 <!--
-Official duongdesign.co portfolio website readme. Duong Design Company Copyright 2023.
+Duong Design Company Copyright 2023.
 
 
 -->
