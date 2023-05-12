@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!--
 	<title>My Portfolio</title>
+	-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
@@ -21,13 +23,13 @@
 	</header>
 	<main>
 		<section id="home">
-			<h1>Hey there, it's TAM!</h1>
+			<h1>Welcome</h1>
 			<p>New developments underway, thank you for your patience.</p>
 			<a href="#portfolio" class="button">View Portfolio</a>
 		</section>
 		<section id="about">
 			<h2>About Me</h2>
-			<p>About me./p>
+			<p>About me.</p>
 			<p>Something else</p>
 		</section>
 		<section id="portfolio">
